@@ -1,0 +1,2 @@
+# STEP_AI01_Mohammad_Zahid_assessment_1.zip
+ covid_19_case_prediction.py
